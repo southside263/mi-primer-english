@@ -171,46 +171,46 @@ Money can take many forms. The more of these characteristics for a type of money
 - **conventional money** is the money of general use in a particular country.
     - Cash in circulation, bank deposits and central bank reserves.
     - Most are credit or electronic entries in the accounting books.
-    - **NO NECESARIAMENTE** guarda ****su **VALOR** en el **tiempo**
+    - **DO NOT NECESSARILY** save ****your **VALUE** over **time**
     
-- Los **ACTIVOS MONETARIOS** generalmente **SI** guardan ****su **VALOR** en el **tiempo**.
+- The ** MONETARY ASSETS** generally **MAY** keep ****their **VALUE** in the **time**.
 
-**Tipos de dinero:**
+**Types of money:**
 
-- Dinero **Mercancía**:
-    - difíciles de extraer,  escasos
-    - atractivos como reserva de valor
-    - oro y plata perduraron como buen dinero durante miles de años
+- Money **Merchandise**:
+    - difficult to extract, scarce
+    - attractive as a reserve of value
+    - gold and silver endured as good money for thousands of years
     
-    **Activo Monetario** 
+    **Monetary Activity** 
     
-- **Representativo**:
-    - billetes respaldados en oro o plata
-    - cada billete se intercambia por su valor equivalente en metal
-    - En la historia moderna, el patrón oro duró hasta 1971.
+- **Representative**:
+    - banknotes backed by gold or silver
+    - each ticket is exchanged for its equivalent value in metal
+    - In modern history, the gold standard lasted until 1971.
     
-    **Activo Monetario (Inicialmente)**
+    **Monetary Assets (Initially)**
     
-    **Dinero Convencional(Al pasar del tiempo-**si se incrementa la oferta monetaria**)** 
+    **Conventional Money (Thing by the passage of time-**if the money supply increases**)** 
     
-- **Fiat o moneda fiduciaria**:
-    - Implementada como monopolio y emitida a voluntad por un gobierno
-    - no está respaldada por un producto físico
-    - no tiene valor intrínseco; su valor depende de:
-        - la relación entre oferta y demanda
-        - la estabilidad del gobierno emisor.
+- **Fiat or fiat currency**:
+    - Implemented as a monopoly and issued at will by a government
+    - it is not backed by a physical product
+    - it has no intrinsic value; its value depends on:
+        - the relationship between supply and demand
+        - the stability of the issuing government.
     
-    **Dinero Convencional (**El fiat digital tiene más riesgo de contraparte que el físico**)**
+    **Conventional Money (**The digital fiat has more counterparty risk than the physical one**)**
     
 - **Bitcoin**:
-    - moneda digital escasa
-    - opera de manera descentralizada
-    - se basa en software y criptografía “persona a persona” para realizar movimientos.
+    - digital currency
+    - operates in a decentralized way
+    - is based on software and "person to person" cryptography to perform movements.
     
-    **Activo Monetario**
+    **Monetary Activity**
     
 
-**Ejercicio Práctico.**  Marque con una X si el artículo cumple con la característica indicada. Cuál articulo escogería como dinero? 
+**Practical Exercise.**  Mark with an X if the item meets the indicated feature. Which item would you choose as money? 
 
 (No llenemos la última columna ‘Bitcoin’ hasta completar el cuarto capítulo.)
 
