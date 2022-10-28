@@ -112,65 +112,65 @@ The banking business consists of:
     - High inflation and negative interest rates cause the value of money to decrease
 
 
-> “Un banco es un lugar en el que prestan a usted un paraguas cuando hace buen tiempo y se lo piden cuando empieza a llover.” (Robert Lee Frost)
+> “A bank is a place where they lend you an umbrella in fair weather and ask for it back when it begins to rain.” (Robert Lee Frost)
 
-### Definición del Dinero
+### Definition of Money
 
-Aceptamos pagos en efectivo, cheque y/o tarjeta de crédito a cambio de bienes y servicios
+We accept payments in cash, check and/or credit card in exchange for goods and services
 
-- *No* nos detenemos a pensar que:
-    - todos estos medios de intercambio son únicamente promesas de pago.
+- *No* we stop to think that:
+    - all these means of exchange are only promises of payment.
 
-¿Qué es el dinero? https://youtu.be/2yCIKkq8gKA
+What is money? https://youtu.be/2yCIKkq8gKA
 
-**Funciones del Dinero**
+**Functions of Money**
 
-El dinero cumple **tres funciones**: 
+Money fulfills **three functions**: 
 
-1. Depósito de valor que se puede invertir, ahorrar, solicitar o prestar 
-2. medio de intercambio para pagar bienes y servicios 
-3. unidad de medida que permite comparar los precios entre productos o servicios.
+1. Deposit of value that can be invested, saved, requested or lent 
+2. means of exchange to pay for goods and services 
+3. unit of measurement that allows you to compare prices between products or services.
 
-Depósito de Valor
+Value Deposit
 
-- **Definición:** Tiende a mantener su valor a través del tiempo.
+- **Definition:** It tends to maintain its value over time.
 
-Medio de intercambio
+Means of exchange
 
-- **Definición:** Elimina el complejo sistema de trueque permitiendo el intercambio de bienes y el pago de deudas con mayor eficiencia.
+- **Definition:** Eliminates the complex barter system allowing the exchange of goods and the payment of debts with greater efficiency.
 
-Unidad de medida
+Unit of measurement
 
-- **Definición:** Permite que exista un patrón universal de un sistema de precios para expresar el valor de bienes y servicios.
-
-
-**Características del Dinero.**
-
-El dinero puede tomar muchas formas. Entre más  de estas características demuestra un tipo de dinero, mejor dinero es.
-
-**Durabilidad** El dinero debe resistir el deterioro físico y perdurar en el tiempo. Debe ser capaz de circular en la economía en un estado aceptable y reconocible.
+- **Definition:** Allows there to be a universal pattern of a pricing system to express the value of goods and services.
 
 
-**Uniformidad o fungibilidad** - Cada unidad de dinero debe ser exactamente igual a cualquier otra. 
+**Characteristics of Money.**
+
+Money can take many forms. The more of these characteristics for a type of money, the better money it is.
+
+**Durability** Money must resist physical deterioration and last over time. It must be able to circulate in the economy in an acceptable and recognizable state.
 
 
-**Portabilidad** Tiene que ser fácil de trasladar de un lado a otro. Debe poder acumular mucho valor en poco peso.
+**Uniformity or fungibility** - Each unit of money must be exactly the same as any other. 
 
 
-**Divisibilidad** Debe servir para adquirir bienes caros y baratos y  ser fraccionado sin perder su valor.
+**Portability** It has to be easy to move from one place to another. You must be able to accumulate, or transport, a lot of value in a small weight.
 
 
-**Reconocibilidad** o **Aceptabilidad**- El bien que se utilice tiene que ser reconocido por todos como dinero.
+**Divisability** It must be used to acquire expensive and inexpensive goods and be divided without losing its value.
 
 
-**Escasez** El valor del dinero depende de la oferta y la demanda. Mientras más dinero se ofrezca y menos se necesite, su valor será menor**.** 
+**Recognisability** or **Acceptability**- The good used has to be recognized by everyone as money.
 
 
-**DINERO CONVENCIONAL y ACTIVOS MONETARIOS** 
+**Scarcity** The value of money depends on supply and demand. The more money is offered and the less it is needed, its value will be lower**. ** 
 
-- El **dinero convencional** es el dinero de uso general en un país en particular.
-    - Efectivo en circulación, depósitos bancarios y reservas del banco central.
-    - La mayoría es crédito o entradas electrónicas en los libros contables.
+
+**CONVENTIONAL MONEY and MONETARY ASSETS** 
+
+- **conventional money** is the money of general use in a particular country.
+    - Cash in circulation, bank deposits and central bank reserves.
+    - Most are credit or electronic entries in the accounting books.
     - **NO NECESARIAMENTE** guarda ****su **VALOR** en el **tiempo**
     
 - Los **ACTIVOS MONETARIOS** generalmente **SI** guardan ****su **VALOR** en el **tiempo**.
