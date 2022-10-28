@@ -212,100 +212,100 @@ Money can take many forms. The more of these characteristics for a type of money
 
 **Practical Exercise.**  Mark with an X if the item meets the indicated feature. Which item would you choose as money? 
 
-(No llenemos la última columna ‘Bitcoin’ hasta completar el cuarto capítulo.)
+(Let's not fill in the last 'Bitcoin' column until the fourth chapter is completed.)
 
-Es un buen activo monetario? 
+Is it a good monetary asset? 
 
-Un dinero útil debe ser portátil, divisible, duradero, escaso, reconocible y fungible
+Useful money must be portable, divisible, durable, scarce, recognizable and fungible
 
-**Actividad o Tarea-Las Uvas Secas Cómo Dinero** 
+**Activity or Homework - Dried Grapes Like Money** 
 
-# Clase #**2**
+# Class #**2**
 
-# Historia, Evolución y Devaluación del Dinero
+# History, Evolution and Devaluation of Money
 
-# Historia del Dinero
+# History of Money
 
-El dinero es algo que usamos a diario, pero rara vez paramos a pensar... ¿de dónde vino? ¿cómo transaban nuestros ancestros? 
+Money is something we use every day, but we rarely stop to think... where did it come from? How did our ancestors deal? 
 
-- Lo que ha constituido dinero, ha variado a través del tiempo y de un lugar a otro.
-- El dinero es tan antiguo como el lenguaje
-    - Es simplemente una forma de comunicación, una tecnología.
-- No existe un acuerdo universal sobre lo que realmente es.
-- En principio, no necesitaríamos un activo especial como un billete para reconocer a quién se le deben bienes y/o servicios.
-    - Cualquier persona podría tener su propio libro contable.
-    - Nuestros ancestros transaban de esta forma y/o a través del trueque sin necesidad de bancos o dinero convencional.
+- What has constituted as money has changed over time and from one place to another.
+- Money is as old as language
+    - It's just a form of communication, a technology.
+- There is no universal agreement on what it really is.
+- In principle, we would not need a special asset such as a ticket to recognize who is owed goods and/or services.
+    - Anyone could have their own ledger.
+    - Our ancestors traded in this way and/or through barter without the need for banks or conventional money.
 
-**Volvamos al pasado: El Trueque**
+**Let's go back to the past: The Barter**
 
-Para producir el trueque debe existir una **doble coincidencia de necesidades**. 
+To produce the barter, there must be a **double coincidence of needs**. 
 
-- Una persona que quiere intercambiar algo necesita encontrar un socio comercial que tenga lo que quiere y quiera lo que tiene.
-- Este medio de intercambio de bienes y servicios requiere mucho tiempo, restringe la actividad económica y limita la especialización.
-- El uso del dinero alivia estos problemas.
+- A person who wants to exchange something needs to find a business partner who has what he wants and wants what he has.
+- This means of exchange of goods and services requires a lot of time, restricts economic activity and limits specialization.
+- The use of money alleviates these problems.
 
-## Actividad de clase: Juego del Trueque
+## Class activity: Barter Game
 
-Seguir instrucciones del profesor para la actividad a realizar.
+Follow the teacher's instructions for the activity to be performed.
 
-### Juego del Trueque: Análisis
+### Barter Game: Analysis
 
-1. **¿Qué es el trueque?**
+1. **What is barter?**
     
      __________________________________________________________________________
     
-2. **¿Cuáles son los problemas con el trueque?** 
+2. **What are the problems with barter?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-3. **¿Qué es el dinero mercancía?** 
+3. **What is commodity money?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-4. **¿Qué problemas surgen cuando se utiliza el dinero mercancía?** 
+4. **What problems arise when commodity money is used?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-5. **¿Qué es el dinero?** 
+5. **What is money?** 
     
     ___________________________________________________________________________
     
-6. **¿Por qué la gente está dispuesta a aceptar dinero?** 
+6. **Why are people willing to accept money? ** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
 
-Veamos el video:
+Let's watch the video:
 
 https://www.youtube.com/watch?v=zcYw8a4RJC4
 
-Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
+Resource: Economy from Zero, *Money*, Canal Encuentro, Argentina
 
 
-- El dinero ha evolucionado a lo largo de la historia, enfrentando desafíos y cambios de necesidades…
-    - Normalmente, se eligió la forma de dinero que ofrecía las características superiores.
-    - Pero desde que se empezaron a recortar  las monedas y la transición de metales preciosos a  metales respaldados por papel…
-        - pasamos de una selección natural de la forma de dinero con mejor rendimiento,
-        - a una de facilidad de uso, mayor portabilidad y divisibilidad.
-    - Hubo un cambio hacia la centralización.
+- Money has evolved throughout history, facing challenges and changing needs...
+    - Normally, the form of money that offered the superior characteristics was chosen.
+    - But since coins and the transition from precious metals to paper-backed metals began to be cut...
+        - we went from a natural selection of the best-performing form of money,
+        - one of ease of use, greater portability and divisibility.
+    - There was a change towards centralization.
     
-    ### Cambio Repentino al Fiat
+    ### Sudden change to the Fiat
     
-    La época industrial marcó el inicio de la centralización:
+    The industrial era marked the beginning of centralization:
     
-    - El objetivo era distribuir correctamente los bienes producidos
-        - Se crearon los Bancos Centrales
-        - Nació el sistema de tarjetas de crédito y débito
+    - The objective was to correctly distribute the goods produced
+        - The Central Banks were created
+        - The credit and debit card system was born
     
-    Cuando el dinero se centraliza, pueden ocurrir problemas profundos. 
+    When money is centralized, deep problems can occur. 
     
-    - Los gobierno monitorean de cerca la actividad económica de sus ciudadanos
-    - El abuso de poder puede llevar a
-        - estímulos económicos e intervenciones gubernamentales
-        - explosión de deuda y consumo irresponsable
-            - Aumento en la desigualdad de riqueza
+    - The governments closely monitor the economic activity of their citizens
+    - Abuse of power can lead to
+        - economic incentives and government interventions
+        - explosion of debt and irresponsible consumption
+            - Increase in wealth inequality
     
-    - Hasta 1971, se usaba dinero representativo: medio de intercambio y reserva de valor.
+    - Until 1971, representative money was used: means of exchange and store of value.
     - Nos alejamos del dinero sólido hacia un mundo basado en la deuda
         - Richard Nixon, eliminó la libre convertibilidad del oro por el dinero
         - Pasamos al experimento actual, que es el dinero **fiat**.
