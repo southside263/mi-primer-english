@@ -6,7 +6,7 @@
 
 ### Activity “Introduction to money”
 
-## ¿What problems are there with today's money?
+## What problems are there with today's money?
 
 We are programmed to resist the challenges of life and progress. It is a natural human process to want to improve ourselves, to lead a productive, creative and valuable life, but:
 
@@ -23,94 +23,93 @@ To reduce poverty and stimulate social well-being, it is important to:
 - learn how to use new technologies responsibly
 - plan for the future.
 
-Veremos que Bitcoin es una herramienta y un tipo de dinero:
+We will see that Bitcoin is a tool and a type of money:
 
-- transparente, descentralizado, global, digital, barato, privado, programable, de fácil y rápido acceso, que puede ayudar a remediar estos problemas.
+- transparent, decentralized, global, digital, cheap, private, programmable, easy and fast access, which can help remedy these problems.
 
-**Consecuencias del desarrollo de nuestra civilización**
+**Consequences of the development of our civilization**
 
-Las personas siempre han necesitado alguien que financie sus aspiraciones del futuro.
+People have always needed someone to finance their aspirations for the future.
 
-- Formas de intercambiar salarios, tiempo, y energía por depósitos de valor.
+- Ways to exchange wages, time, and energy for valuables.
 
-Si no hubiésemos evolucionado, habríamos quedado reducidos a una economía de trueque. 
+If we had not evolved, we would have been reduced to a barter economy. 
 
-- Cada cosa que alguien quisiera comprar tendría que ser canjeada por algo que esa persona pudiera proveer.
+- Everything that someone would want to buy would have to be exchanged for something that that person could provide.
 
-El desarrollo permanente ha revolucionado las sociedades y la interacción global
+Permanent development has revolutionized societies and global interaction
 
-- En general, con un interés común de mejorar la calidad de vida de futuras civilizaciones
-    - A medida que la tecnología avanza y aumenta la productividad, debería(n)(mos):
-        - bajar los precios de forma natural
-        - fortalecerse la moneda
-        - poder comprar más por menos.
-    - Pero sucede lo contrario
-        - Los precios suben, las monedas se debilitan y compramos menos por más
+- In general, with a common interest in improving the quality of life of future civilizations
+    - As technology advances and productivity increases, it should:
+        - lower prices naturally
+        - strengthen the currency
+        - to be able to buy more for less.
+    - But the opposite happens.
+        - Prices go up, coins weaken and we buy less for more
     
-- ¿Cómo hemos llegado hasta aquí?
-- ¿Cómo, porqué, y para qué se crea más dinero y cuales son las consecuencias?
-- ¿Qué hay escondido tras los sistemas financieros hoy?
-- *¿Cuál es el peligro invisible de la pérdida de valor del dinero?*
-- *¿Cómo podemos darle valor adicional a nuestros ahorros*?
+- How did we get here?
+- How, and why is more money created and what are the consequences?
+- What is hidden behind the financial systems today?
+- *What is the invisible danger of the loss of value of money? *
+- *How can we give additional value to our savings*?
 
-Hoy, sólo los bancos y los gobiernos tienen el poder de emitir dinero en una economía.
+Today, only banks and governments have the power to emit money in an economy.
 
-El dinero simplemente no se acaba. Los gobiernos imprimen la cantidad de dinero necesaria para financiar sus gastos públicos, inyectar recursos en la economía y retirarlos después en forma de impuestos. 
+The money just doesn't run out. Governments print the amount of money needed to finance their public spending, inject resources into the economy and then withdraw them in the form of taxes. 
 
-El problema es que como humanidad, gastamos más de lo que generamos. Como consecuencia:
+The problem is that as humanity, we spend more than we generate. As a consequence:
 
-- pérdida de confianza en el valor del dinero y en el sistema bancario moderno.
-- inestabilidad económica y política mundial e incluso, trae guerras. Porqué?
+- loss of confidence in the value of money and in the modern banking system.
+- global economic and political instability and even wars. Why?
 
-### **Nuestras necesidades son infinitas pero nuestros recursos escasos.**
-
-
-
-**La Modernización** 
-
-> ‘*Se ****debe confiar en los bancos para que retengan nuestro dinero y lo transfieran electrónicamente, pero lo prestan en oleadas de burbujas crediticias con apenas una fracción en reserva.’ –Satoshi Nakamoto*
+### **Our needs are endless but our resources are scarce.**
 
 
-El negocio bancario consiste en: 
 
-- La compra de dinero en forma de depósitos de los ahorradores, y su posterior venta mediante préstamos a aquellos que lo necesitan.
-- Su beneficio, como en cualquier otro negocio, proviene de:
-    - Un mayor precio de venta que el de compra-
-        - la tasa de interés de el dinero que presta es mayor a la que paga a los ahorradores.
-    - Pero la clave del poder bancario ****reside en la posibilidad de:
-        - vender algo que no es de su propiedad**,** sino del ahorrador correspondiente.
-- Los gobiernos controlan la emisión de sus monedas
-    - intentan solucionar ciclos económicos problemáticos
-- Las economías imprimen más dinero en momentos de recesión
-    - estimulan el crecimiento a corto plazo
-    - disminuyen el desempleo a corto plazo
-- La necesidad del papel moneda físico ha perdido su importancia
-    - La banca por internet ha facilitado el uso del crédito
+**Modernization** 
+
+> ‘*Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible.' -Satoshi Nakamoto*
 
 
-💡 **Los Beneficios**
+The banking business consists of: 
 
-- Facilitan transacciones inmediatas y planeación hacia el futuro
-- Registran los movimientos de los ahorradores y deudores en bases de datos centralizadas
-- Actualizan constantemente las salidas y entradas de sus usuarios
-- Verifican la legitimidad de las cuentas
-- Si el dinero desaparece en una cuenta por una de múltiples razones, es reemplazable.
-    - Cuentan con pólizas de seguro en caso de ser víctimas de un robo.
+- The purchase of money in the form of savings from savers, and its subsequent sale through loans to those who need it.
+- Its benefit, as in any other business, comes from:
+    - A higher selling price than the purchase price-
+        - the interest rate of the money you lend is higher than the one you pay to lenders.
+    - But the key to banking power **** lies in the possibility of:
+        - sell something that is not your property**,** but the corresponding saver.
+- Governments control the issuance of their coins
+    - they try to solve problematic economic cycles
+- Economies print more money in times of recession
+    - stimulate growth in the short term
+    - short-term unemployment decreases
+- The need for physical paper money has lost its importance
+    - Internet banking has facilitated the use of credit
 
 
-💡 **Los Costos.**
+💡 **The Benefits**
 
-- El sistema bancario tiene una única fuente de falla, es centralizado y se puede manipular fácilmente.
+- They facilitate immediate transactions and planning for the future
+- They record the movements of savers and debtors in centralized databases
+- They constantly update the outputs and inputs of their users
+- They verify the legitimacy of the accounts
+- If the money disappears in an account for one of several reasons, it is replaceable.
+    - They have insurance policies in case they are victims of a robbery.
+
+💡 **The Costs.**
+
+- The banking system has a single source of failure, it is centralized and can be easily manipulated.
    
     
-- Los gobiernos pueden:
-    - expandir y contraer libremente la oferta monetaria
-    - confiscar cuentas bancarias,
-    - bloquear retiros sin previo aviso,
-    - enfrentar graves problemas técnicos o piratería informática,
-    - eliminar algunos servicios básicos,
-    - maniobrar las tasas de intereses y los impuestos
-    - La inflación alta y tasas de interés negativas causan que el valor del dinero disminuya
+- Governments can:
+    - freely expand and contract the money supply
+    - confiscate bank accounts,
+    - block withdrawals without prior notice,
+    - face serious technical problems or hacking,
+    - eliminate some basic services,
+    - maneuver interest rates and taxes
+    - High inflation and negative interest rates cause the value of money to decrease
 
 
 > “Un banco es un lugar en el que prestan a usted un paraguas cuando hace buen tiempo y se lo piden cuando empieza a llover.” (Robert Lee Frost)
