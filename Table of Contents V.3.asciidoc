@@ -94,39 +94,39 @@
         3. The Nonce of the Block
         4. Activity and Visualization: Analyze Blocks in Real Time
         
-4. La Escasez, El Costo, El Precio y La Volatilidad
-    1. La Importancia de la Recompensa del Bloque
+4. Scarcity, Cost, Price and Volatility
+    1. The Importance of the Block Reward
     2. Halving
-        1. Eventos de Reducción a la Mitad
-    3. El Valor de Bitcoin a Través del Tiempo
-        1. Factores a Mediano y Largo Plazo
-        2. El Efecto Lindy
-    4. Las Recompensas a los Mineros
-        1. La Dificultad
-    5. De Qué  o Quién  me Tengo que Cuidar?
-        1. Los Ataques a Bitcoin
-        2. Los ataques del 51%
+        1. Halves Reduction Events
+    3. The Value of Bitcoin through time
+        1. Medium- and long-term factors
+        2. The Lindy Effect
+    4. Rewards to Miners
+        1. The Difficulty
+    5. What or who do I have to take care of?
+        1. Attacks on Bitcoin
+        2. The 51% attack
         
-5. Bitcoin de Hoy y del Futuro
-    1. La Energía Consumida
-    2. Ha Evolucionado?
-    3. Innovación 
+5. Bitcoin of Today and the Future
+    1. The Energy Consumed
+    2. Has it evolved?
+    3. Innovation 
         1. Software-Bitcoin Core
-        2. SegWit, Taproot y Firmas Schnorr
+        2. SegWit, Taproot and Schnorr Signatures
         3. Taro
-    4. Bitcoin y el Futuro del Salvador
+    4. Bitcoin and the Future of El Salvador
     
-6. Proyecto Final  y Evaluación 
-    1. Porqué Bitcoin?
-        1. Qué es?
-        2. Cómo funciona?
-        3. Cómo cambia al mundo? 
+6. Final Project and Evaluation 
+    1. Why Bitcoin?
+        1. What is it?
+        2. How does it work?
+        3. How does it change the world? 
     
 
-Apendice
+Apendix
 
-FUENTES
+SOURCES
 
-FUENTES ADICIONALES
+ADDITIONAL SOURCES
 
-La Magia de las Firmas Digitales (Sección Opcional)
+The Magic of Digital Signatures (Optional Section)
