@@ -1,27 +1,27 @@
 
 
-# Clase #*1*
+# Class #*1*
 
-# El Sistema Monetario
+# The Monetary System
 
-### Actividad “Introducción al dinero”
+### Activity “Introduction to money”
 
-## ¿Qué problemas existen con el dinero de hoy?
+## ¿What problems are there with today's money?
 
-Estamos programados para resistir los desafíos de la vida y progresar. Es un proceso humano natural el querer superarnos, llevar una vida productiva, creativa y valiosa, pero:
+We are programmed to resist the challenges of life and progress. It is a natural human process to want to improve ourselves, to lead a productive, creative and valuable life, but:
 
-- Vivimos en un mundo donde hay mucho para pocos, y muy poco muchos.
-    - Los individuos de menores recursos económicos:
-        - no cuentan con las mismas oportunidades. Porqué?
-            - no tienen acceso a los mismos niveles de educación,
-            - no pueden acceder a los créditos necesarios comenzar sus negocios.
+- We live in a world where there is a lot for a few, and very little for the many.
+    - Individuals with lower economic resources:
+        - They don't have the same opportunities. Why?
+            - they do not have access to the same levels of education,
+            - they can't access the necessary credits to start their business.
 
-Para reducir la pobreza y estimular el bienestar social, es importante:
+To reduce poverty and stimulate social well-being, it is important to:
 
-- mejorar el acceso a la educación financiera,
-- desarrollar la capacidad de administrar dinero,
-- aprender a utilizar nuevas tecnologías de manera responsable
-- planear para el futuro.
+- improve access to financial education,
+- develop the ability to manage money,
+- learn how to use new technologies responsibly
+- plan for the future.
 
 Veremos que Bitcoin es una herramienta y un tipo de dinero:
 
