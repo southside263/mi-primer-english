@@ -1,0 +1,132 @@
+1. Introduction: The Monetary System
+    1. Activity- "Introduction to 💴"
+    2. What problems are there today with the 💵?
+        1. Consequences of development
+            - Infinite Needs/scarce Resources
+        2. Modernization 
+    3. Definition of money.
+        1. Functions of Money
+        2. Characteristics of Money
+        3. Difference between Conventional Money and Monetary Assets
+            - Types of Money
+            - Practical Exercise - Is it a good monetary asset?
+            - Optional task-Are raisins a good money?
+        
+
+1. History, Evolution and Devaluation of Money
+    1. Activity: "Game of Barter"
+    2. Evolution of Money in Time 
+        1. Video and organizational chart
+    3. Sudden change to the Fiat
+    4. Central Banks.
+        1. The Fractional Reserve
+            - Banking Multiplier Activity
+
+1. The Effects of Fiat Money and Centralization 
+    1. Activity-Auction
+    2. Inflation 
+        1. What is it and why do we care?
+        2. Opportunity and Temporary Preference Costs
+        3. Causes of Inflation: 
+    3. Vigilance
+    4. Restriction 
+        1. Government and Banking Policies
+        2. Commissions 
+        3. Schedules and Security
+    5. Centralization vs. Decentralization
+        1. Characteristics of a Centralized System 
+        2. Characteristics of a Decentralized System
+    6. Conclusion 
+
+1. Bitcoin
+    1. Why was Bitcoin created?
+        1. The problems to be solved
+        2. How they were solved - The Blockchain
+        3. Who solved them? 
+            - What difficulties did Satoshi have?
+            - What was the Generals Dilemma?
+            - What does it have to do with Bitcoin?
+    2. Introduction to Bitcoin
+    3. Differences between Bitcoin and Fiat
+        1. Complete Activity 2.c
+    4. Bitcoin participants
+
+1. Purchase, Custody, and Transfer of Bitcoin
+    1. Entry and Exit Ramps
+        1. Do I have enough money to buy bitcoin?
+    2. Bitcoin custody
+        1. Types of Wallets and Lightning
+            - Who Controls My Botcoin?
+            - What is the most convenient wallet?
+            - How do I send Satoshis?
+    3. The Cycle of a Transaction (on-chain)
+        1. What is a Bitcoin Transaction?
+        2. Bridges and stops to make transactions and save BTC
+        3. How does a Step-by-Step Transaction work?
+        4. "UTXOs" - Unspent Transactions or (Unspent Transaction Output)
+        5. Confirmation a Transaction 
+    4. The Bitcoin Network  
+    
+2. Bitcoin how to Deposit Value and how to Pay Network
+    1. The Double Spending Problem
+    2. Memory Group or "Mempool"
+    3. Activity-Verified but Unconfirmed Transactions
+    4. The Bitcoin Network
+        1. Full nodes.
+        2. Activity-State of transactions
+    5. Lightning Network
+        1. The difference between Layer 1 and Layer 2
+        2. Visualization and Activity with Lightning
+        
+3. Miners and Bitcoin Mining
+    1. The Mining Nodes
+        1. What is the mathematical competition between miners like?
+    2. A Small Deviation - to understand the importance of hashes 
+        1. What is a Function?
+        2. What is a Hash?
+        3. What is SHA256?
+            - Activity: Create Hashes
+        4. What is a "nonce"?
+        5. What is a Merkle Tree?
+    3. The Mining
+        1. Don't Trust... Verify
+        2. The Block Hash
+        3. The Nonce of the Block
+        4. Activity and Visualization: Analyze Blocks in Real Time
+        
+4. La Escasez, El Costo, El Precio y La Volatilidad
+    1. La Importancia de la Recompensa del Bloque
+    2. Halving
+        1. Eventos de Reducción a la Mitad
+    3. El Valor de Bitcoin a Través del Tiempo
+        1. Factores a Mediano y Largo Plazo
+        2. El Efecto Lindy
+    4. Las Recompensas a los Mineros
+        1. La Dificultad
+    5. De Qué  o Quién  me Tengo que Cuidar?
+        1. Los Ataques a Bitcoin
+        2. Los ataques del 51%
+        
+5. Bitcoin de Hoy y del Futuro
+    1. La Energía Consumida
+    2. Ha Evolucionado?
+    3. Innovación 
+        1. Software-Bitcoin Core
+        2. SegWit, Taproot y Firmas Schnorr
+        3. Taro
+    4. Bitcoin y el Futuro del Salvador
+    
+6. Proyecto Final  y Evaluación 
+    1. Porqué Bitcoin?
+        1. Qué es?
+        2. Cómo funciona?
+        3. Cómo cambia al mundo? 
+    
+
+Apendice
+
+FUENTES
+
+FUENTES ADICIONALES
+
+La Magia de las Firmas Digitales (Sección Opcional)
