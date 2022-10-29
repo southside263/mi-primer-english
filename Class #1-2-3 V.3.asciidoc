@@ -544,80 +544,80 @@ Here is a list of policies and ways in which this can happen:
 - **Banking Policies**
     - Banks have limits on the amount of cash that can be withdrawn from an account, or they have a maximum that can be transferred.
     - Most of these transactions have commissions
-        - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
-            - este es un claro recordatorio de quién realmente controla tu dinero.
-        - En El Salvador, la remesas representan el 23% de su producto interno bruto (PIB).
-            - En el 2020 fueron casi $6 mil millones de dólares. Alrededor del 60% de ese dinero proviene de empresas de remesas y el 38% de instituciones bancarias.
-            - Empresas como Western Union tienen tarifas elevadas,
-                - especialmente para montos inferiores a $1000 USD.
-- **Comisiones o cargos**
+        - Greece citizens, after the 2015 crisis, could only withdraw $60 euros a day,
+            - This is a clear reminder of who really controls your money.
+        - In El Salvador, remittances represent 23% of their gross domestic product (GDP).
+            - In 2020, it was almost $6 billion. About 60% of that money comes from remittance companies and 38% from banking institutions.
+            - Companies like Western Union have high rates,
+                - especially for amounts less than $1000 USD.
+- **Commissions or charges**
     
-    Solo enriquecen a las instituciones bancarias e
+    They only enrich banking institutions and
     
-    Incrementan la brecha entre ricos y pobres
+    The gap between rich and poor increases
     
-    - Para montos pequeños, como de diez dólares,
-        - las comisiones pueden llegar a ser  hasta de más de tres dólares, o el 33%.
-    - Para cien dólares,
-        - las tarifas oscilan entre el 12% y el 15%.
+    - For small amounts, about ten dollars,
+        - Commissions can be up to more than three dollars, or 33%.
+    - For a hundred dollars,
+        - the rates range from 12% to 15%.
     
-- **Horario**
+- **Schedule**
     
-    Para enviar/recibir una remesa:
+    To send/receive a remittance:
     
-    - tanto el remitente como el destinatario deben acudir a la sucursal más cercana
-        - durante horario laboral, por supuesto
-- **Seguridad**
+    - both the sender and the recipient must go to the nearest branch
+        - during working hours, of course
+- **Security**
     
-    Acudir a las oficinas de Western Union representa riesgos adicionales, 
+    Going to the Western Union offices poses additional risks, 
     
-    - las personas deben llevar su dinero en efectivo,
-        - aumentando las posibilidades de ser robados.
-    - Si los servidores centralizados fallan (lo que pasa frecuentemente),
-        - se podrían negar el acceso a los fondos de cualquier cliente.
+    - people must bring their cash,
+        - increasing the chances of being robbed.
+    - If centralized servers fail (which happens frequently),
+        - access to any client's funds could be denied.
     
 
-### Centralización vs. Decentralización
+### Centralization vs. Decentralization
 
-La centralización de las economías modernas produce:
+The centralization of modern economies produces:
 
-- censura, abuso de poder, corrupción, desigualdad de oportunidades, desigualdad de riqueza, y fuentes únicas de fallos.
+- censorship, abuse of power, corruption, inequality of opportunities, inequality of wealth, and unique sources of failure.
 
-Los bancos operan por medio de  servidores centralizados, 
+Banks operate through centralized servers, 
 
-- tienen acceso todas las actividades financieras de sus usuarios.
+- have access to all the financial activities of their users.
 
-Qué saben los bancos de sus clientes?
+What do the banks know of their customers?
 
-- cuánto te pagan,
-- en qué gastas tu dinero,
-- a quién le mandas dinero
-- y todo lo relacionado con tu cuenta bancaria.
+- how much you get paid,
+- what you spend your money on,
+- who you send your money to,
+- and everything else related to your bank account.
 
-**Características de un sistema centralizado**
-1. Tienes que confiar que la organización centralizada mantendrá tus datos seguros
-2. Tienen completo control del sistema y de tus datos
-3. Si los servidores principales se ven comprometidos, tus datos están en riesgo. 
+**Features of a centralized system**
+1. You have to trust that the centralized organization will keep your data safe.
+2. They have complete control of the system and your data.
+3. If the main servers are compromised, your data is at risk. 
 
-Las divisas digitales de los bancos centrales son la continuación del sistema actual pero de forma digital. Es decir: mutables, censurables, cerradas, centralizadas, exclusivas, y vigilantes.
+Central bank digital currencies (CBDC's) are the continuation of the current system but in digital form. That is to say: mutable, objectionable, closed, centralized, exclusive, and vigilant.
 
-**Cómo contrarrestamos estos fenómenos, causados por malas políticas gubernamentales?**
+**How do we counteract these phenomena, caused by bad government policies?**
 
 
-- **Características de un sistema descentralizado.** Se describe cómo un sistema de **igual a igual** o de P2P porque:
-    1. Las personas no tienen que identificarse para interactuar y estar interconectados entre sí a través de internet. 
-    2. Cada quien es responsable de su propio dispositivo pero presta y comparte sus recursos.
-    3. Si hay un ataque a la red, los hackers tendrían que tener control de la mayoría de computadores — esto es casi imposible.
-    4. En caso de que hubiera un error en un servidor, el resto no se vería afectado.
-    5. Logra una sociedad más justa -quita el control a las corporaciones poderosas.
+- **Features of a decentralized system. ** It is described as a **peer to peer** or P2P system because:
+    1.  People do not have to identify themselves to interact and be interconnected with each other through the internet. 
+    2. Everyone is responsible for their own device but lends and shares their resources.
+    3. If there is an attack on the network, hackers would have to have control of most computers - this is almost impossible.
+    4.  In case there was an error on a server, the rest would not be affected.
+    5. Achieve a fairer society - take control away from powerful corporations.
 
-### **Conclusión**
+### **Conclusion**
 
-Discusión en clase: Cuatro fenómenos globales que suceden hoy, gracias a la centralización:
+Class discussion: Four global phenomena that happen today, thanks to centralization:
 
-- - La pérdida de poder adquisitivo
-- - La restricción de la transferencia de valor
-- - La pérdida de privacidad
-- - Centralización financiera
+- - The loss of purchasing power
+- - The restriction of the transfer of value
+- - The loss of privacy
+- - Financial centralization
 
-Preguntémonos de nuevo, ¿habrá solución?
+Let's ask again, will there be a solution?
