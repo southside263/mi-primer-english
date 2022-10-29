@@ -306,153 +306,153 @@ Resource: Economy from Zero, *Money*, Canal Encuentro, Argentina
             - Increase in wealth inequality
     
     - Until 1971, representative money was used: means of exchange and store of value.
-    - Nos alejamos del dinero sólido hacia un mundo basado en la deuda
-        - Richard Nixon, eliminó la libre convertibilidad del oro por el dinero
-        - Pasamos al experimento actual, que es el dinero **fiat**.
-        - El dinero moderno es por decreto  y no por consenso.
-            - **Fiat** viene del latín y significa por decreto: es elegido y establecido por ley
+    - We move away from solid money towards a debt-based world
+        - Richard Nixon, eliminated the free convertibility of gold for money
+        - Let's move on to the current experiment, which is the money **fiat**.
+        - Modern money is by decree and not by consensus.
+            - **Fiat** comes from Latin and means by decree: it is elected and established by law
             
 
-> “Aquello que funcionó ayer, no necesariamente funcionará hoy.” Jordan Peterson
+> "What worked yesterday, will not necessarily work today." Jordan Peterson
 
 
-**Los Bancos Centrales**
+**Central Banks**
 
-- **El objetivo y función del Banco Central:**
-    - Controla la política monetaria del país con el fin de garantizar estabilidad
-    - Su función: Ser el banquero de los bancos.
-    - Su trabajo principal: manipular la oferta del dinero en circulación
-        - **Controlar la inflación y maximizar el empleo a con políticas económicas y financieras**
-    - El Banco Central de los EEUU se llama La Reserva Federal.
+- **The objective and function of the Central Bank:**
+    - Controls the country's monetary policy in order to ensure stability
+    - Central Banks function: To be the banker of the banks.
+    - Central Banks main job: to manipulate the supply of money in circulation
+        - **Control inflation and maximize employment with economic and financial policies**
+    - The US Central Bank is called the Federal Reserve.
     
-    - ¿Quién define y quién se beneficia de estos objetivos?
-        - Los grandes bancos -pueden influenciar las políticas federales, e incluso globales.
-    - Cómo  altera la oferta monetaria la Reserva Federal?
-        - A través del sistema bancario **de reserva fraccionaria**,
-        - Los Bancos en EEUU sólo mantienen un 10% de sus depósitos en sus reservas .
-        - La banca de reserva fraccionaria resulta en un m**ultiplicador bancario**
-        - Más de dos personas usan el mismo dinero a la vez en la economía de un país .
+    - Who defines and who benefits from these objectives?
+        - Large banks - can influence federal, and even global policies.
+    - How does the Federal Reserve alter the money supply?
+        - Through the ** fractional reserve** banking system,
+        - Banks in the United States only keep 10% of their deposits in their reserves.
+        - Fractional reserve banking results in a bank multiplier**
+        - More than two people use the same money at the same time in a country's economy.
             
            
-            💡 Los bancos tienen la obligación de mantener un cierto porcentaje de todos los depósitos en el banco.Reducir ese porcentaje significa que puede circular más dinero, y aumentarlo significa que circula menos dinero.
+            💡 Banks are obliged to maintain a certain percentage of all deposits in the bank. Reducing that percentage means that more money can circulate, and increasing it means that less money circulates.
             
            
             
         
-    - ¿Qué problemas puede provocar la banca de **reserva fraccionaria?**
-        - Los bancos «piden prestado y prestan a largo plazo».
-            - El retiro de depósitos excede las reservas de efectivo.
-            - Los bancos incurren grandes pérdidas
-            - En los peores de los casos se produce una corrida bancaria.
-        - Los cambios en las tasas de interés o el costo del capital afectan el riesgo.
-            - + dinero en circulación…préstamos más baratos y menos exigentes.
+    - What problems can the ** fractional reserve bank cause? **
+        - Banks "borrow and lend in the long term."
+            - The withdrawal of deposits exceeds cash reserves.
+            - Banks incur large losses
+            - In the worst case, there is a bank run.
+        - Changes in interest rates or the cost of capital affect the risk.
+            - + money in circulation... cheaper and less demanding loans.
         
-    - Operaciones de mercado abierto (para aumentar o disminuir el dinero en circulación)
-        - El gobierno compra o vende títulos monetarios (deuda de alta liquidez).
-            - Si quieren aumentarlo: compran bonos de la tesorería.
-            - Si quieren disminuirlo: venden bonos de la tesorería
+    - Open market operations (to increase or decrease the money in circulation)
+        - The government buys or sells monetary securities (high-liquidity debt).
+            - If you want to increase it: they buy treasury bonds.
+            - If you want to reduce it: they sell treasury bonds
     
 
-# Actividad Reserva Fraccionaria
+# Fractional Reserve Activity
 
-Siga las instrucciones del maestro
+Follow the teacher's instructions
 
 
-# Clase #*3*
+# Class #*3*
 
-## Los Efectos **del Dinero Fiat y la Centralización**
+## The Effects **of Fiat Money and Centralization**
 
-## Actividad de clase - ¡Subasta!
+## Class activity - Auction!
 
-Siga las instrucciones del maestro para la siguiente actividad.
+Follow the teacher's instructions for the following activity.
 
-### Inflación
+### Inflation
 
-De manera introductoria, analizaremos el siguiente video sobre qué es la inflación:
+In an introductory way, we will analyze the following video about what inflation is:
 
 https://youtu.be/gkDQGribCfc
 
-Recurso:*Causas de la Inflación*, Video,Banco de la República, Colombia
+Resource: *Causes of Inflation*, Video, Banco de la República, Colombia
 
-- **Definición**:
-    - Originalmente el término se usaba para indicar:
-        - la pérdida de valor de una moneda,
-        - la devaluación de su poder adquisitivo provocada por el aumento de su oferta.
-    - Esta perdida de valor normalmente produce, en términos de dicha moneda:
-        - un aumento general y sostenido en el precio de todos los bienes y servicios
-    - El término “inflación” pasó a utilizarse también para indicar el aumento de precios
-        - independientemente de la causa.
+- **Definition**:
+    - Originally, the term was used to indicate:
+        - the loss of value of a currency,
+        - the devaluation of its purchasing power caused by the increase in its supply.
+    - This loss of value normally produces, in terms of said currency:
+        - a general and sustained increase in the price of all goods and services
+    - The term "inflation" was also used to indicate the price increase
+        - regardless of the cause.
     
-     **Porqué nos importa?**
+     **Why do we care?**
     
-    - Cuando más dinero persigue la misma cantidad de bienes:
-        - los precios suben.
-    - Si los precios de los productos aumentan más rápido que los sueldos y salarios:
-        - las personas se empobrecen. 
+    - When more money is pursued by the same amount of goods:
+        - prices go up.
+    - If product prices increase faster than wages and salaries:
+        - People become impoverished. 
         
-        **McDonald’s en 1970:**
+        **McDonald's in 1970:**
     
   
     
-        **McDonald’s en el 2022:**
+        **McDonald's in 2022:**
     
     
     
 
-**¿Que nos enseñan los economistas modernos?**
+**What do modern economists teach us?**
 
-- Necesitamos estimular la inflación para poder administrar eficazmente una nación.
-- Si no incentivamos el gasto y la inversión (a través de la devaluación de la moneda):
-    - arriesgamos a una menor demanda,
-    - desatando una producción disminuida y
-    - llevando en el peor caso a una economía estancada.
-    - Todo esto implica que es ****difícil, imposible o hasta no recommendable ahorrar.
-- La situación actual nos incentiva a gastar. Es una teoría contraproducente.
-    - No pensamos en un futuro más allá que un par de días, semanas o meses
-    - Deberíamos poder prepararnos para el futuro de nuestros nietos
-    - La inflación simplemente no nos permite tener disciplina financiera.
-- Nuestras decisiones tienen consecuencias.
-    - Esto se conoce como el **“costo de oportunidad”**
+- We need to stimulate inflation in order to effectively manage a nation.
+- If we do not encourage spending and investment (through the devaluation of the currency):
+    - we risk a lower demand,
+    - unleashing a decreased production and
+    - leading in the worst case to a stagnant economy.
+    - All this implies that it is difficult, impossible or even not recommendable to save.
+- The current situation encourages us to spend. It's a counterproductive theory.
+    - We don't think about a future beyond a couple of days, weeks or months
+    - We should be able to prepare for the future of our grandchildren
+    - Inflation simply does not allow us to have financial discipline.
+- Our decisions have consequences.
+    - This is known as **"opportunity cost"**
     
-    - La inflación fomenta una **Preferencia Temporal Alta,** lo que significa que preferimos  $100 hoy en vez de $200 en dos años.
+    - Inflation encourages a **High Time Preference,** which means that we prefer $100 today instead of $200 in two years.
     
   
-    - Nuestro objetivo debería ser crear una **preferencia temporal baja.**
+    - Our goal should be to create a **low time preference. **
     
    
     
-    Vemos las siguientes tres razones por las que ocurre inflación:
+    We see the following three reasons why inflation occurs:
     
     https://youtu.be/_DpyCXNiY7E
     
-    Recurso: *Causas de la Inflación,* Video, Banco de la República, Colombia
+    Resource: *Causes of Inflation,* Video, Banco de la República, Colombia
     
-    1. **Inflación de costos o de oferta**
-    - Aumenta el precio de los insumos
-        - Causas:
-            - Regulaciones gubernamentales, guerras, sequías, dificultades en la cadena de suministro y otras situaciones.
-            - Alza en las tazas de impuestos incrementan el costo de las materias primas
-            - Los trabajos especializados se vuelven más costosos
-                - falta de habilidades o recursos en una sociedad
-            - Las nuevas tecnologías suelen ser muy caras
-                - con el tiempo disminuyen el costo de los productos.
-    1. **Inflación de demanda**
-        1. La oferta de bienes no alcanza a cubrir la demanda
-        2. Debido a una reducción de impuestos o reducción en las tasas de intereses en los préstamos) 
-            - se crea un aumento en el ingreso disponible...
-            - empieza a circular en el mercado el exceso…
-            - se compite por conseguir los mismos bienes con más dinero…
-                - esto hace subir los precios...
-        - eventualmente aumenta la oferta, y luego los precios vuelven a bajar.
+    1. **Inflation of costs and supply**
+    - Increase the price of inputs
+        - Causes:
+            - Government regulations, wars, droughts, supply chain difficulties and other situations.
+            - Increase in tax rates increase the cost of raw materials
+            - Specialized jobs become more expensive
+                - lack of skills or resources in a society
+            - New technologies are usually very expensive
+                - Over time, the cost of the products decreases.
+    1. **Demand Inflation**
+        1. The supply of goods is not enough to meet the demand
+        2. Due to a reduction in taxes or a reduction in interest rates on loans) 
+            - an increase in disposable income is created...
+            - the excess begins to circulate in the market...
+            - you compete to get the same goods with more money...
+                - this raises prices...
+        - eventually the supply increases, and then the prices go down again.
     
-    1. **Inflación por políticas gubernamentales**
-    - El gobierno financia el déficit con emisión
-        - ¿Son auténticos los trabajos/proyectos que se crean a través de la inflación?
-        - ¿Por qué es importante para los gobiernos que la gente compre cosas con su dinero?
-        - ¿Que tipos de bienes compramos como sociedad cuando existe mas dinero en la economía? Son bienes esenciales para vivir?
-        - Qué sucede cuando las tasas de impuestos suben con más  velocidad que el incremento en los salarios en una economía?
+    1. **Inflation by government policies**
+    - The government finances the deficit with issuance
+        - Are the jobs/projects created through inflation authentic?
+        - Why is it important for governments that people buy things with their money?
+        - What types of goods do we buy as a society when there is more money in the economy? Are they essential goods to live?
+        - What happens when tax rates rise faster than the increase in wages in an economy?
     
-    - La inflación significa que el trabajo que hiciste hace un tiempo tiene menor valor que  el de hoy.
+    - Inflation means that the work you did a while ago has less value than today.
         - El año pasado te pagaron $10; compraste 10 almuerzos a $1 cada uno.
         - Decidiste guardarlos.
         - Hoy hay :
