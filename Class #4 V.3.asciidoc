@@ -1,101 +1,101 @@
 ### **CLASS #*4* - BITCOIN**
 
-**¿Por qué se creó Bitcoin?**
+**Why was Bitcoin created?**
 
-El ataque en el 2001 a las Torres Gemelas de Nueva York fue un golpe durísimo para la economía mundial. Como consecuencia, con el apoyo del sector privado y el objetivo de facilitarle financiamiento hipotecario a las personas de ingresos más bajos, EEUU comenzó a bajar las tasas de interés rápidamente a niveles nunca antes vistos. De tal forma se les dió créditos a personas sin ingresos, activos, ni empleo. Este tipo de hipotecas fue bautizada como  "hipotecas subprime", y por supuesto, tenían alta probabilidad de impago. Los efectos de la crisis se viven hasta hoy. Su estallido se dió el 15 de septiembre del 2008, cuando el banco de inversión Lehman Brothers se declaró en bancarrota. A partir de ese momento, Estados Unidos sufrió un colapso económico y luego le siguió el resto de los países desarrollados. En consecuencia, día a día creció  la desconfianza en los bancos por la toma de riesgos excesivos y la poca regulación en la industria.
+The 2001 attack on the Twin Towers in New York was a huge blow to the world economy. As a consequence, with the support of the private sector and the objective of facilitating mortgage financing for people with lower incomes, the US began to rapidly lower interest rates to levels never seen before. In this way, credits were given to people without income, assets, or employment. This type of mortgage was baptized as "subprime mortgage", and of course, they had a high probability of default. The effects of the crisis are lived until today. Its outbreak occurred on September 15, 2008, when the investment bank Lehman Brothers declared bankruptcy. From that moment on, the United States suffered an economic collapse and then the rest of the developed countries followed. Consequently, day by day mistrust in banks grew due to excessive risk taking and little regulation in the industry.
 
  
 
-💡 **Los problemas a solucionar?**
+💡 **The problems to be solved?**
 
-- La falta de soberanía individual,
-- la centralización de los bancos,
-- la inflación, la vigilancia,
-- la necesidad de intermediarios,
-- la poca accesibilidad a los servicios bancarios y
-- los altos costes de las remesas internacionales, entre otros.
+- The lack of individual sovereignty,
+- the centralization of banks,
+- inflation, surveillance,
+- the need for intermediaries,
+- the lack of accessibility to banking services and
+- the high costs of international remittances, among others.
 
-**Cómo se solucionaron?** 
+**How were they solved? ** 
 
-- Con el uso de una tecnología desarrollada en 1991,
+- With the use of a technology developed in 1991,
 
 
-**¿Quién los solucionó?**
+**Who solved them? **
 
-- Satoshi Nakamoto apareció en Octubre del 2008. Su identidad todavía es un misterio.
-- Propuso su idea de un nuevo sistema de efectivo electrónico. Este dinero se llamaría **bitcoin**.
-- Dedicó su tiempo a crear una guía para explicar un nuevo medio de pago que:
-    - posibilita la ejecución de transferencias de valor rápidas, y a bajo costo,
-    - no puede ser controlado ni manipulado por gobiernos o entidades financieras
-- Gracias a este ser o grupo de personas, existe una solución al problema del “**doble gasto”:**
-    - ****Ahora es imposible que alguien gaste el mismo dinero virtual en dos sitios diferentes.
-- Su documento de nueve páginas conocido como un **Whitepaper** (Papel Blanco).
-    - Lo compartió a una lista de correos electrónicos con los Cypherpunk:
-        - un grupo muy activo con discusiones técnicas
-            - abarcaban matemáticas, criptografía, ciencias de la computación, discusiones políticas y filosóficas e incluso argumentos personales.
+- Satoshi Nakamoto appeared in October 2008. His identity is still a mystery.
+- He proposed his idea of a new electronic cash system. This money would be called **bitcoin**.
+- He devoted his time to creating a guide to explain a new means of payment that:
+    - enables the execution of fast and low-cost value transfers,
+    - cannot be controlled or manipulated by governments or financial institutions
+- Thanks to this being or group of people, there is a solution to the problem of "**double spending":**
+    - ****Now it is impossible for anyone to spend the same virtual money in two different places.
+- A nine-page document known as the **Whitepaper** .
+    - He shared it to the Cypherpunk email list:
+        - a very active group with technical discussions
+            - they included mathematics, cryptography, computer science, political and philosophical discussions and even personal arguments.
 
-https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf
+https://bitcoin.org/bitcoin.pdf
 
-- Satoshi tenía cinismo hacia el sistema monetario y bancario tradicional.
-    - Esto se puede ver en el **bloque génesis,** donde publicó un mensaje que decía:
+- Satoshi had a cynicism towards the traditional monetary and banking system.
+    - This can be seen in the **genesis block,** where he published a message that said:
 
-> "The Times 03/ene/2009 Canciller al borde del segundo rescate para los bancos"
+> "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 > 
 
 - Satoshi Nakamoto, Genesis Block.  
 
-- Hace referencia a un artículo del periódico Times titulado "Canciller al borde del segundo rescate de los bancos".
-- Canciller británico debía decidir si inyectar billones de Libras Esterlinas más en la economía con el fin de rescatar a los bancos.
+- It refers to an article in the Times newspaper entitled "Chancellor on brink of second bailout for banks."
+-  British Chancellor had to decide whether to inject billions of British Pounds more into the economy in order to rescue the banks.
 
-Estos son otros datos básicos que sabemos sobre Satoshi, su Whitepaper y la creación de Bitcoin:
+This is other basic data we know about Satoshi, his Whitepaper and the creation of Bitcoin:
 
-- La primera transacción de bitcoins fue de Nakamoto a Hal Finney.
-- La última “señal de vida” de Satoshi fue con Gavin Andersen, desarrollador de software:
+- The first bitcoin transaction was from Nakamoto to Hal Finney.
+- Satoshi's last "sign of life" was with Gavin Andersen, software developer:
     
-    > “…paso a otras cosas,…en buenas manos con Gavin y todos.”
+    > “…I've moved on to other things,…It's in good hands with Gavin and everyone.”
     > 
-- En mensajes públicos, e incluso en mensajes privados que luego se publicaron, Nakamoto nunca habló de nada personal.  Todo se trataba de bitcoin y su **código**.
-- Muchas personas afirmaron ser Satoshi. Aún no sabemos quién es.
-- Se estima que Satoshi tiene aproximadamente 980,000 bitcoin.
+- In public messages, and even in private messages that were later published, Nakamoto never spoke of anything personal. It was all about bitcoin and its **code**.
+- Many people claimed to be Satoshi. We still don't know who he is.
+-  It is estimated that Satoshi has approximately 980,000 bitcoins.
 
-¿**Cuales dificultades enfrentó Satoshi?**
+**What challenges did Satoshi face? **
 
-- [ ]  ¿Podría alguien mandarle el mismo dinero a dos personas simultáneamente?
-- [ ]  En internet ¿quién puede confiar en quien está del otro lado?
-- [ ]  ¿Cómo sabemos si alguien tiene suficiente dinero en su cuenta (o en su monedero) para comprarle un producto a otro?
-- [ ]  ¿Cómo se asegura de que una red descentralizada pueda tomar decisiones correctas, incluso si algunos de los **nodos** (participantes conectados) en ella se vuelven deshonestos?
-- [ ]  ¿Podemos crear un sistema distribuido y confiable que no asuma automáticamente que los participantes van a actuar éticamente y trabajarán en interés del grupo?
-- [ ]  ¿Cómo sabemos que la persona que quiere recibir dinero a través de este sistema es quien dice ser?
+- [ ]  Could someone send the same money to two people at the same time?
+- [ ]  On the internet, who can trust who is on the other side?
+- [ ]  How do we know if someone has enough money in their account (or wallet) to buy one product from another?
+- [ ]  How do you ensure that a decentralized network can make the right decisions, even if some of the ** nodes** (connected participants) in it become dishonest?
+- [ ]  Can we create a distributed and reliable system that does not automatically assume that the participants will act ethically and work in the interest of the group?
+- [ ]  How do we know that the person who wants to receive money through this system is who he claims to be?
 
-”**Problema del Doble Gasto” = "Problema de los Generales Bizantinos"**
+”**Double Spend Problem” = "Byzantine Generals Problem"**
 
-**¿Cual era el dilema de los Generales?**
+**What was the Byzantine Generals problem?**
 
-El problema de los Generales Bizantinos es una metáfora que narra la dificultad de transmitir información fiable sin la intervención de un coordinador central de confianza.
+The problem of the Byzantine Generals is a metaphor that narrates the difficulty of transmitting reliable information without the intervention of a trusted central coordinator.
 
-Cuál es la alegoría?
+What is the story?
 
-- [ ]  Hay un castillo en Persia, que está muy bien abastecido y fortificado.
-- [ ]  Los generales bizantinos han rodeado el castillo y planean lanzar un ataque.
-- [ ]  Dado que el ejército está tan disperso, no existe un control centralizado.
-- [ ]  Los generales se comunican entre ellos por medio de mensajeros.
-- [ ]  Las dos posibles órdenes son "atacar" y "retirarse".
-- [ ]  Deben ponerse de acuerdo para atacar al ejército persia, y hacerlo simultáneamente.
-- [ ]  Si cualquiera de ellos lo intentara por separado, perderán la batalla
-- [ ]  Si existe un traidor, podría conseguir que los leales no se pongan de acuerdo.
-    - [ ]  Por ejemplo, le podría decir a un general que ataque y al otro que se retire.
-- [ ]  Una mañana, un general  recibe el siguiente mensaje: "El ataque se producirá el Martes". ****No lleva la firma de ninguna autoridad central.
+- [ ]  There is a castle in Persia, which is very well supplied and fortified.
+- [ ]  The Byzantine generals have surrounded the castle and plan to launch an attack.
+- [ ]  Since the army is so dispersed, there is no centralized control.
+- [ ]  The generals communicate with each other through messengers.
+- [ ]  The two possible commands are "attack" and "retreat".
+- [ ]  They must agree to attack the Persian army, and do so simultaneously.
+- [ ]  If either of them tried it separately, they will lose the battle
+- [ ]  If there is a traitor, it could cause the loyalists to disagree.
+    - [ ]  For example, you could tell one general to attack and the other to retreat.
+- [ ]  One morning, a general receives the following message: "The attack will take place on Tuesday." ****Does not bear the signature of any central authority.
 
 
- ¿Cómo puede el general  tener la certeza de que se trata de una orden verdadera y no de un engaño del enemigo transmitiendo información contraria a la estrategia del ejército?
+ How can the general be sure that it is a true order and not a deception of the enemy transmitting information contrary to the strategy of the army?
 
-¿Que sucede si quien mandó el mensaje es traidor y planea traicionar al ejército?¿Qué pasa si el mismo general es corrupto y busca sembrar la discordia entre los otros generales?
+What happens if the one who sent the message is a traitor and plans to betray the army? What happens if the general himself is corrupt and seeks to sow discord among the other generals?
 
-La solución a este problema se usó originalmente como método para evitar el spam por email. 
+The solution to this problem was originally used as a method to avoid email spam. 
 
-¿**Que tiene que ver esto con Bitcoin?**
+**What does this have to do with Bitcoin? **
 
-El problema de los generales bizantinos describe:
+The problem of the Byzantine generals describes:
 
 - la dificultad que tienen los sistemas descentralizados para ponerse de acuerdo sobre una sola verdad.
 - Es el mismo que se tiene cuando se realiza una transferencia de dinero sin un intermediario confiable.
