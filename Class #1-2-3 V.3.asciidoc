@@ -453,97 +453,97 @@ Resource: *Causes of Inflation*, Video, Banco de la República, Colombia
         - What happens when tax rates rise faster than the increase in wages in an economy?
     
     - Inflation means that the work you did a while ago has less value than today.
-        - El año pasado te pagaron $10; compraste 10 almuerzos a $1 cada uno.
-        - Decidiste guardarlos.
-        - Hoy hay :
-            - más dinero en la economía circulando
-            - más gente queriendo comprar almuerzos
-            - la misma cantidad de almuerzos a la venta
-            - el precio sube a $2 por almuerzo.
-        - Sólo podrás comprar 5 almuerzos con los $10 dólares que ahorraste.
-        - En teoría, esto no tiene sentido. Si pones 8 horas de trabajo, esa realidad no cambia aunque hayan pasado 10 años. Esa energía debería poder quedarse contigo.
-        - Podríamos decir que la inflación es un tipo de robo de valor.
+        - Last year you were paid $10; you could buy 10 lunches for $1 each.
+        - You decided to save your money.
+        - Today there is:
+            - more money in circulating in the economy
+            - more people wanting to buy lunches
+            - the same number of lunches for sale
+            - the price rises to $2 for lunch.
+        - You can only buy 5 lunches with the $10 dollars you saved.
+        - In theory, this doesn't make sense. If you put 8 hours of work, that reality does not change even if 10 years have passed. That energy should be able to stay with you.
+        - We could say that inflation is a type of value theft.
         
 
-En el siguiente gráfico podemos ver la perdida de valor del dolar Americano. 
+In the following graph we can see the loss of value of the American dollar. 
 
 
-Recurso: 
+Resource: 
 
 *Declining purchasing power of the US dollar strengthens Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/, Toju Ometoruwa
 
-- **Inflación a traves del tiempo**
-    - La inflación entre 1970 y 2020 fue mucho mayor que la del período de 50 años anterior, 1920 a 1970.
-    - Que pasará si seguimos en la misma trayectoria?
-    - Quien tuvo un castigo económico mayor, la generación de tus abuelos o la de tus padres?
+- **Inflation through time**
+    - Inflation between 1970 and 2020 was much higher than that of the previous 50-year period, 1920 to 1970.
+    - What will happen if we continue in the same trajectory?
+    - Who had a greater economic hardship, the generation of your grandparents or that of your parents?
     
-    - $1 de 1920 a 1970:
+    - $1 from 1920 to 1970:
         
        
-    - $1 de 1970 a 2020:
+    - $1 from 1970 to 2020:
             
 
  
 
-Crees que los salarios subieron a la par de los precios? 
+Do you think salaries went up at the same rate as prices? 
 
 
-Dicho desde otro punto de vista, lo que hoy (2022) compramos con $100, nos hubiera costado aproximadamente $7 en 1920. 
+In other words, what we can buy today (2022) with $100 would have cost us approximately $7 in 1920. 
 
-La inflación causa pérdida en el p**oder adquisitivo:** 
+Inflation causes a loss in **purchasing power:** 
 
-- los aumentos en los salarios son menores que los aumentos en los precios de la comida
-- los individuos se ven obligados a reducir su consumo
-- se disminuye la capacidad de compra.
+- increases in wages are lower than increases in food prices
+- individuals are forced to reduce their consumption
+- the purchasing capacity is reduced.
 
-Para mayor visibilidad y análisis de otros periodos puedes ir aquí:
+For more visibility and analysis of other periods you can go here:
 
 https://www.wolframalpha.com/input?i=100+1970+usd+in+2020
 
 
-### Vigilancia
+### Surveillance
 
-Los gobiernos imponen regulaciones con el fin de encontrar y atrapar personas que lavan dinero o hacen otro tipo de transacciones ilegales. 
+Governments impose regulations in order to find and trap people who launder money or make other illegal transactions. 
 
-- La vigilancia es un arma de doble filo.
-- Cuanto más fraude ocurra, más vigilancia por parte del Estado y compañías privadas
-    - invaden nuestra privacidad gracias al progreso tecnológico
-    - controlan nuestros movimientos en las redes sociales y económicas
-    - Intercambio de datos personales a cambio del disfrute de ciertos servicios.
-- Consecuencias:
-    - estafas digitales, acoso en línea, extorsión, usurpación de identidad y otros problemas que ponen en peligro la privacidad y la seguridad de los usuarios.
-    - Nuestras compras con tarjetas se registran, analizan y se vigilan
-        - a menos que compremos bienes y servicios en efectivo
-- Si alguien consigue tu contraseña de tu banca en internet, o hackea los servidores centralizados, tendría acceso a toda la información.
+- Surveillance is a double-edged sword.
+- The more fraud occurs, the more vigilance by the State and private companies
+    - invade our privacy thanks to technological progress
+    - control our movements on social and economic networks
+    - Exchange of personal data in exchange for the enjoyment of certain services.
+- Consequences:
+    - digital scams, online harassment, extortion, identity theft and other problems that endanger the privacy and security of users.
+    - Our card purchases are recorded, analyzed and monitored
+        - unless we buy goods and services in cash
+- If someone gets your password from your internet banking, or hacks the centralized servers, they would have access to all of your information.
 
-💡 Necesitamos un dinero que resguarde nuestra privacidad y no comparta toda nuestra información personal con gobiernos y empresas privadas.
+💡 We need money that protects our privacy and does not share all our personal information with governments and private companies.
 
 
 
-¿Cómo nos vigilan en internet?
+How do you keep an eye on the internet?
 https://youtu.be/-sWgOuFIaws
 
-### Restricción
+### Restriction
 
-- Es que es difícil y costoso mover dinero entre naciones.
-- Los gobiernos controlan los intercambios de divisas, aunque se haga entre dos personas conocidas.
+- It's difficult and expensive to move money between nations.
+- Governments control foreign exchange, even if it is done between two known people.
 
-Aquí hay una lista de políticas y formas en que esto puede suceder:
+Here is a list of policies and ways in which this can happen:
 
-- **Políticas gubernamentales**
-    - Control de Capitales: Se restringe la cantidad de dinero que sus ciudadanos pueden transferir, cambiar o llevar al extranjero.
-        - Ejemplos:
-            - Argentina, Rusia, Indonesia, Cuba y China
-            - El ciudadano promedio de China, solo puede convertir hasta $ 50.000 de renminbi (aprox. $8.000 USD) cada año.
+- **Governmental policies**
+    - Capital Control: The amount of money that your citizens can transfer, exchange or take abroad is restricted.
+        - Examples:
+            - Argentina, Russia, Indonesia, Cuba and China
+            - The average citizen of China can only convert up to $ 50,000 in renminbi (approx. $8,000 USD) each year.
     
-    > “*La única solución que hemos encontrado en Cuba es Bitcoin. Estamos ahora mismo en las mismas igualdades, la misma posibilidad de competir con cualquier otro país, porque tenemos acceso pleno, libre, sin sanciones ni prohibiciones a esa tecnología que nos permite crear, crecer y conectar.”*
+    > “*The only solution we have found in Cuba is Bitcoin. We are currently in the same equality, the same possibility of competing with any other country, because we have full, free, unsanctioned access to that technology that allows us to create, grow and connect.”*
     > 
     
-       *Eric García Cruz, emprendedor cubano y entusiasta de Bitcoin.*
+       *Eric García Cruz, Cuban entrepreneur and Bitcoin enthusiast. *
     
-- **Políticas bancarias**
-    - Los bancos tienen límites sobre la cantidad de efectivo que se puede retirar de una cuenta, o tienen un máximo que se puede transferir.
-    - La mayoría de estas transacciones tienen comisiones
+- **Banking Policies**
+    - Banks have limits on the amount of cash that can be withdrawn from an account, or they have a maximum that can be transferred.
+    - Most of these transactions have commissions
         - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
             - este es un claro recordatorio de quién realmente controla tu dinero.
         - En El Salvador, la remesas representan el 23% de su producto interno bruto (PIB).
