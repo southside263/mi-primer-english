@@ -75,13 +75,13 @@ The problem of the Byzantine Generals is a metaphor that narrates the difficulty
 
 What is the story?
 
-- [ ]  There is a castle in Persia, which is very well supplied and fortified.
-- [ ]  The Byzantine generals have surrounded the castle and plan to launch an attack.
+- [ ]  There was a castle in Persia, which is very well supplied and fortified.
+- [ ]  The Byzantine generals surrounded the castle and plan to launch an attack.
 - [ ]  Since the army is so dispersed, there is no centralized control.
 - [ ]  The generals communicate with each other through messengers.
 - [ ]  The two possible commands are "attack" and "retreat".
 - [ ]  They must agree to attack the Persian army, and do so simultaneously.
-- [ ]  If either of them tried it separately, they will lose the battle
+- [ ]  If any of them attack separately, they will lose the battle
 - [ ]  If there is a traitor, it could cause the loyalists to disagree.
     - [ ]  For example, you could tell one general to attack and the other to retreat.
 - [ ]  One morning, a general receives the following message: "The attack will take place on Tuesday." ****Does not bear the signature of any central authority.
@@ -97,140 +97,140 @@ The solution to this problem was originally used as a method to avoid email spam
 
 The problem of the Byzantine generals describes:
 
-- the difficulty that decentralized systems have in agreeing on a single truth.
+- The difficulty that decentralized systems have in agreeing on a single truth.
 - It is the same as when you make a money transfer without a reliable intermediary.
     - A way is then required to verify that the message has not been modified, which had not been achieved until the appearance of Bitcoin with its **consensus** mechanism.
 - The use of cryptography is essential in this process, but what is **cryptography**?
     - The art of creating **messages encrypted with secret keys** so that they cannot be decrypted except by the person to whom it is addressed or who has the key.
 - Bitcoin also uses a **proof of work** mechanism and a **blockchain** to solve the “**double spend**” problem.
-- Bitcoin logra:
+- Bitcoin achieves:
 
-1) transferir un activo digital (o dinero) a otro usuario a través de Internet,
+1) transfer a digital asset (or money) to another user through the Internet,
 
-2) de manera que solo el propietario pueda iniciar la operación,
+2) so that only the owner can start the operation,
 
-3) únicamente el destinatario pueda recibirlo,
+3) only the recipient can receive it,
 
-4) todo el mundo pueda validar la transferencia,
+4) everyone can validate the transfer,
 
-5) y esta sea reconocida por todos los participantes,
+5) and this is recognized by all participants,
 
-6) al igual que ser inmutable, o imposible de revertir  o borrar,
+6) it is immutable, or impossible to reverse or delete,
 
-7)  todo ello realizado de manera totalmente **distribuida** y **descentralizada**.
+7)  all this is done in a totally **distributed** and **decentralized** way.
 
-En el marco de las cadenas de bloques, cada General es un **nodo en la red**, 
+Within the framework of blockchains, each General is a **node in the network**, 
 
-- Los nodos deben llegar a un convenio
-    - para determinar el estado actual del registro de contabilidad compartido.
-    - Si la mayoría de la **red** en la **blockchain** llega está de acuerdo,
-        - modifican los balances de cuentas por pagar y por cobrar de los usuarios,
-    - Si una gran mayoría de la red es maliciosa,
-        - el sistema es vulnerable a fallas.
+- The nodes must reach an agreement
+    - to determine the current status of the shared accounting record.
+    - If the majority of the **network** on the **blockchain** agrees,
+        - mmodify the balances of accounts payable and receivable from users,
+    - If a large majority of the network is malicious,
+        - the system is vulnerable to failures.
 
-### *Introducción al Bitcoin*
+### *Introduction to Bitcoin*
 
-Comencemos con un video breve:
+Let's start with a short video:
 
-¿Qué es Bitcoin y cómo funciona? https://youtu.be/S2HxMK7iO4c
+What is Bitcoin and how does it work? https://youtu.be/S2HxMK7iO4c
 
-¿Qué es Bitcoin? ¿Qué es bitcoin?…..
+What is Bitcoin? What is bitcoin?…..
 
-Es muchas cosas…. 
+It's a lot of things…. 
 
-- **Dinero**: Una moneda virtual e intangible que cumple las tres funciones del dinero tradicional: una unidad de cuenta, un depósito de valor y un medio de intercambio.
-- **Software**: Software que puede descargar y ejecutar en cualquier computador.
-    - Un **sistema de pago** sin un banco central o una autoridad única.
-- **Red**: Conjunto de personas y computadores trabajando a través del consenso para funcionar sin falla.
+- **Money**: A virtual and intangible currency that fulfills the three functions of traditional money: a unit of account, a value deposit and a means of exchange.
+- **Software**: Software that you can download and run on any computer.
+    - A **payment system** without a central bank or a single authority.
+- **Network**: Set of people and computers working through consensus to function without failure.
     
     
-    - Cual es la diferencia entre Bitcoin y bitcoin?
-        - Bitcoin con ‘B’ se refiere a la **red** de computadores que trabaja con el mismo programa, mientras *bitcoin* con ‘b’ se refiere a el activo digital ($) que se maneja dentro de la red.  Dicho de otra forma, bitcoin es una unidad de la moneda virtual cifrada mediante criptografía, que nos sirve para intercambiar valor dentro de la red Bitcoin.
+    - What is the difference between Bitcoin and bitcoin?
+        - Bitcoin with 'B' refers to the **network** of computers that works with the same program, while *bitcoin* with 'b' refers to the digital asset ($) that is managed within the network. In other words, bitcoin is a unit of virtual currency encrypted by cryptography, which serves us to exchange value within the Bitcoin network.
     
-- Cual es su función principal?
-    - Permite la transferencia de pagos persona a persona (P2P), sin intermediarios, de forma económica, y sin barreras internacionales. Almacena valor.
-- Que avance tecnológico ha logrado? Porqué  revolucionará la banca?
-    - Impide que la gente pueda gastar el mismo dinero dos veces.
-    - Elimina la necesidad de una autoridad central para supervisar las transacciones.
-- Que lo hace valioso?
-    
-    
-- Cual es la relación entre la cadena de bloques y Bitcoin?
-    - La cadena de bloques es el libro público donde se registran de forma permanente las transacciones más importantes de Bitcoin.
-    - Bitcoin es la única cadena de bloques que registra transacciones realizadas con la moneda bitcoin.
+- What is its main function?
+    - Allows the transfer of peer-to-peer (P2P) payments, without intermediaries, economically, and without international barriers. It stores value.
+- What technological progress has it achieved? Why will it revolutionize banking?
+    - Prevents people from spending the same money twice.
+    - Eliminates the need for a central authority to monitor transactions.
+- What makes it valuable?
     
     
-- De qué  están hechos los *bitcoin*?
-    - De nada que se pueda tocar físicamente, como un billete.
-    - Son sólo cadenas de números y letras digitales
-    - Una identidad única ( tal cómo tu huella digital te da tu identidad).
-- Bitcoin es anónimo?
-    - No, es seudónimo. Las transacciones son visibles, accesibles y transparentes para todos
-    - Las personas se identifican no con nombre y apellido sino con cadenas de cadenas de letras y números
-- ¿Quién puede usar Bitcoin?
-    - A diferencia del sistema bancario tradicional, cualquier persona que tenga acceso al internet.
-- Cómo puedo conseguir bitcoin?
-    - Se **compra** en línea a través de  plataformas de intercambio o e**xchanges**.
-    - Se **crean nuevos** bitcoin a través de un proceso de trabajo llamado **minería.**
-- Cuales son las barreras de entrada a Bitcoin?
-    - Se necesita acceso a internet para poder hacer transacciones con BTC.
-    - Algunos países prohiben las entradas pero es imposible prohibir el intercambio.
-- En donde se almacenan los bitcoin?
-    - En un monedero con acceso a nuestras claves privadas o en un exchange.
-- Cómo puede tener valor una moneda que no existe en el mundo físico y que no está respaldada por nada, ni por nadie?
-    - El valor crece con confianza, escasez, utilidad y nivel de demanda, entre otros factores.
-- Es seguro el Bitcoin?
-    - El objetivo de la minería es desincentivar a los malos actores y dificultar comportamientos indeseados como el doble gasto o el spam.
-    - La criptografía protege la información de una manera muy segura. Se usan:
-        - claves públicas (similar al # de una cuenta bancaria pero único en cada transacción )
-        - y claves privadas (similar a un PIN secreto perteneciente a dicha cuenta bancaria)
-- Quien  y cómo  se asegura de que las transacciones se ejecuten sin fallas?
-    - A través de la los mineros y la minería.
-    - El objetivo es desincentivar a los malos actores y dificultar comportamientos indeseados.
-- Cuales son algunas de las ventajas de bitcoin frente al fiat?
-    - El precio del bitcoin es el mismo en todos los países del mundo.
-    - No existen fronteras.
-    - Su inflación es controlada y su emisión predefinida.
-    - Los gobiernos no tienen poder de decisión sobre su gobernanza.
+- What is the relationship between the blockchain and Bitcoin?
+    - The blockchain is the public ledger where the most important Bitcoin transactions are permanently recorded.
+    - Bitcoin is the only blockchain that records transactions made with the bitcoin currency.
+    
+    
+- What are *bitcoins* made of?
+    - Nothing that can be physically touched, like a voucher.
+    - They are only strings of numbers and digital letters
+    - A unique identity (just as your fingerprint gives you your identity).
+- Is Bitcoin anonymous?
+    - No, it's a pseudonym. Transactions are visible, accessible and transparent to everyone.
+    - People identify themselves not with name and surname but with strings of letters and numbers
+- Who can use Bitcoin?
+    - Unlike the traditional banking system, anyone who has access to the internet.
+- How can I get bitcoin?
+    - It is **purchased** online through platforms called **exchanges**.
+    - New bitcoins are **created** through a work process called **mining.**
+- What are the barriers to Bitcoin?
+    - Internet access is required to be able to make transactions with BTC.
+    - Some countries prohibit entries but it is impossible to prohibit the exchange.
+- Where are the bitcoins stored?
+    - In a wallet with access to our private keys or in an exchange.
+- How can a currency that does not exist in the physical world and that is not supported by anything, or by anyone, have value?
+    - Value grows with confidence, scarcity, utility and level of demand, among other factors.
+- Is Bitcoin safe?
+    - The objective of mining is to discourage bad actors and hinder unwanted behaviors such as double spending or spam.
+    - Cryptography protects information in a very secure way. It uses:
+        - public keys (similar to the # of a bank account but unique in each transaction)
+        - and private keys (similar to a secret PIN belonging to that bank account)
+- Who and what ensures that transactions are executed without failure?
+    - Miners and mining.
+    - The goal is to discourage bad actors and hinder unwanted behavior.
+- What are some of the advantages of bitcoin over fiat?
+    - The price of bitcoin is the same in all countries of the world.
+    - There are no borders.
+    - Its inflation is controlled and its emission is predefined.
+    - Governments have no decision-making power over its governance.
     
    
 
 
 
-Diferencias entre Bitcoin y Fiat 
+Differences between Bitcoin and Fiat 
 
-**Actividad: Completar 2.c (la columna de bitcoin)**
+**Activity: Complete 2.c (the bitcoin column)**
 
-Ejercicio Práctico (continuación de [Es un Buen Activo Monetario?]
+Practical Exercise (continuation of [Is it a Good Monetary Asset?]
 
-Si tuviste dificultades con el ejercicio anterior, repasa la tabla “Diferencias entre Bitcoin y Fiat”.
+If you had difficulties with the previous exercise, review the table “Differences between Bitcoin and Fiat”.
 
-## **Los participantes de Bitcoin:**
+## ***Bitcoin participants:**
 
-Para entender cómo participa alguien o un sistema en la red Bitcoin, nos debemos preguntar
+To understand how someone or a system participates in the Bitcoin network, we must ask ourselves
 
-- ¿Dicha persona o dicho computador puede ver solo las transacciones en las que participa?
-    - Tiene acceso a más información?
-- ¿Cuáles son las transacciones que puede realizar?
-- ¿Cuáles son los permisos tiene sobre la red?
-- ¿Cómo interactúa con la red?
-- ¿Tiene acceso a una copia de toda la cadena?
-
-
-1. **Mineros**: Equipos de computación especializados 
-    - Compiten en resolver rompecabezas matemáticos entre sí, para crear nuevos bitcoins.
-    - Confirman transacciones y mantienen la seguridad de la red.
-        - Similar a los empleados en un banco; se les paga por su trabajo
-2. **Exchanges o Intercambios**: Intercambian monedas fiat por bitcoin y otras criptomonedas.
-    - Ofrecen una manera de entrar y salir del mercado para aquellos que no son mineros.
-    - Similar a los bancos; ofrecen servicios a los usuarios
-3. **Monederos**: Aplicaciones usadas para almacenar, mandar y recibir bitcoin.
-    - Similar a las cuentas bancarias o las apps para transferir dinero por internet
-4. **Nodos**: Dispositivos conectados a una red digital que validan, transmiten, procesan y almacenan transacciones BTC. (Además de ser monederos, tienen muchas otras funciones)
-    - Constan de dos cosas: hardware  y software. (Similar a un móvil  y un app)
-        - El hardware es el material físico necesario para ejecutar el software.
-- **Desarrolladores**: Mantienen y proponen mejoras al código.
+- Can this person or computer only see the transactions in which it participates?
+    - Do they have access to more information?
+- What are the transactions they can make?
+- What are the permissions they have on the network?
+- How does they interact with the network?
+- Do they have access to a copy of the entire chain?
 
 
-Actividad: Si tenemos tiempo en clase, podemos acceder algunos exchanges?
+1. **Miners**: Specialized computer equipment 
+    - They compete in solving mathematical puzzles with each other, to create new bitcoins.
+    -They confirm transactions and maintain the security of the network.
+        - Similar to employees in a bank; they are paid for their work
+2. **Exchanges**: They exchange fiat coins for bitcoin and other cryptocurrencies.
+    - They offer a way to get in and out of the market for those who are not miners.
+    - Similar to banks; offer services to users
+3. **Wallets**: Applications used to store, send and receive bitcoin.
+    - Similar to bank accounts or apps to transfer money online
+4. **Nodes**: Devices connected to a digital network that validate, transmit, process and store BTC transactions. (In addition to being wallets, they have many other functions)
+    - They consist of two things: hardware and software. (Similar to a mobile phone and an app)
+        - Hardware is the physical material necessary to run the software.
+- **Developers**: They maintain and propose improvements to the code.
+
+
+Activity: If we have time in class, can we access some exchanges?
 
