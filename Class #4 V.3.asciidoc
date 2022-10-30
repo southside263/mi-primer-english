@@ -97,12 +97,12 @@ The solution to this problem was originally used as a method to avoid email spam
 
 The problem of the Byzantine generals describes:
 
-- la dificultad que tienen los sistemas descentralizados para ponerse de acuerdo sobre una sola verdad.
-- Es el mismo que se tiene cuando se realiza una transferencia de dinero sin un intermediario confiable.
-    - Se requiere entonces de una manera de verificar que el mensaje no ha sido modificado, lo cual no se había logrado hasta la aparición de Bitcoin con su mecanismo de **consenso**.
-- El uso de la criptografía es esencial en este proceso, pero que es **criptografía**?
-    - El arte de crear **mensajes codificados con claves secretas** con el objetivo de que no pueda ser descifrado salvo por la persona a quien está dirigido o que tenga la clave.
-- Bitcoin también utiliza un mecanismo de **prueba de trabajo** y una **cadena de bloques** para resolver el problema del “**doble gasto**”.
+- the difficulty that decentralized systems have in agreeing on a single truth.
+- It is the same as when you make a money transfer without a reliable intermediary.
+    - A way is then required to verify that the message has not been modified, which had not been achieved until the appearance of Bitcoin with its **consensus** mechanism.
+- The use of cryptography is essential in this process, but what is **cryptography**?
+    - The art of creating **messages encrypted with secret keys** so that they cannot be decrypted except by the person to whom it is addressed or who has the key.
+- Bitcoin also uses a **proof of work** mechanism and a **blockchain** to solve the “**double spend**” problem.
 - Bitcoin logra:
 
 1) transferir un activo digital (o dinero) a otro usuario a través de Internet,
