@@ -1,22 +1,22 @@
-# Compra, Custodia y Movimiento de bitcoin
+# Buying, Custody and Transaction of bitcoin
 
-### Rampas de Entrada y Salida
+### Entry and Exit Ramps
 
-- El primer paso para obtener bitcoin es comprarlo. Existen diversas alternativas:
-    - casas de intercambio, brokers, cajeros BTM’s, compañías fintech, tarjetas de regalo, etc.
-- Se intercambia dinero convencional (euros, dólares, etc.) por su equivalente en bitcoin.
-- Los servicios que proporcionan estos servicios son "rampas de acceso"
-- Los gobiernos pueden regular las rampas de entrada y salida
-    - Podrían prohibir que los bancos envíen dinero a/desde un intercambio de bitcoins.
-        - Lo cual afectaría nuestra capacidad de comprar y vender bitcoins pero,
-            - sería imposible **impedir enviar/recibir bitcoin.**
+- The first step to get bitcoin is to buy it. There are several options:
+    - exchange houses, brokers, BTC ATMs, fintech companies, gift cards, etc.
+- Conventional money (euros, dollars, etc.) is exchanged for its equivalent in bitcoin.
+- The services provided by these services are "access ramps"
+- Governments can regulate entry and exit ramps
+    - They could prohibit banks from sending money to/from a bitcoin exchange.
+        - Which would affect our ability to buy and sell bitcoins but,
+            - it would be impossible to **prevent sending/receiving bitcoin. **
 
-## Tengo suficiente dinero para comprar bitcoin?
+## Do I have enough money to buy bitcoin?
 
-- BTC es la unidad común de la moneda bitcoin.
-- Puede utilizarse el símbolo ₿ igual que se utiliza USD  o $ para referirnos a bitcoin
-- bitcoin tiene un valor equivalente a todas las divisas del mundo en cualquier momento.
-- Ejemplo: 1 BTC = US$21,464, y 1₿= $95,288,229 COP (Pesos Colombianos) en este instante
+- BTC is the common unit of the bitcoin currency.
+- The symbol ₿ can be used the same as USD or $ is used to refer to bitcoin
+- bitcoin has an equivalent value to all currencies in the world at any time.
+- Example: 1 BTC = US$21.464, and 1₿ = $95,288,229 COP (Colombian Pesos) at this time
 - Bitcoin es mucho más divisible que $1USD, $1USD=100 centavos. No existe 1/2 centavo. o 1/10 de centavo.
 - Un **Satoshi** (o Sat para abreviar), es la denominación más baja en la moneda bitcoin
 - 1 BTC = 100,000,000 sats ≈ 0.0003 USD (hoy)
